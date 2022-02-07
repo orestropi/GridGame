@@ -4,10 +4,12 @@ Note: Works with Java 1.8
 
 Goal is to get 11 in the middle.
 
-- Move Right to add
-- Move Left to subtract
-- Move Up to multiply
-- Move Down to divide
+Movements:
+- Move right to add selected square to the right
+- Move left to subtract selected square to the left
+- Move up to multiply selected square to the up
+- Move down to divide selected square to the down
+- If any movement result in a non-integer the option to move in that direction will be removed.
 
 Image of game:
 
