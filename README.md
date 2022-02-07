@@ -27,7 +27,4 @@ Images of the game being played:
 
 ![image](https://user-images.githubusercontent.com/73619173/152740856-eadf56ae-7e9d-4afa-87c6-93a2c8e7ac32.png)
 
-![image](https://user-images.githubusercontent.com/73619173/152726006-2f5cacb3-3b8c-49aa-b541-fd7bf5c14fa4.png)
-
-
 Link To Jar File: https://github.com/orestropi/GridGame/blob/main/GridGame2.jar
