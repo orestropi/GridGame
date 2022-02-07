@@ -11,7 +11,7 @@ Movements:
 - Move down to divide selected square to the down
 - If any movement result in a non-integer the option to move in that direction will be removed.
 
-Image of game:
+Image of the game being played:
 
 ![image](https://user-images.githubusercontent.com/73619173/152722916-225dda3f-d50c-4b4a-b87b-edade53b4bec.png)
 
