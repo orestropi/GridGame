@@ -19,7 +19,7 @@ Image of the game being played:
 
 ![image](https://user-images.githubusercontent.com/73619173/152725971-71402d5f-df7e-493d-b3ef-20c39366692a.png)
 
-...
+**...**
 
 ![image](https://user-images.githubusercontent.com/73619173/152726006-2f5cacb3-3b8c-49aa-b541-fd7bf5c14fa4.png)
 
