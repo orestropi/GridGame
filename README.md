@@ -9,7 +9,7 @@ Movements:
 - Move left to subtract selected square to the left
 - Move up to multiply selected square to the up
 - Move down to divide selected square to the down
-- If any movement result in a non-integer the option to move in that direction will be removed.
+- If any move would result in a non-integer the option to move in that direction will be removed.
 
 Image of the game being played:
 
