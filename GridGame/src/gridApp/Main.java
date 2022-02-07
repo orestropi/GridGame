@@ -10,7 +10,7 @@ import gridApp.model.Puzzle;
 import gridApp.view.GridPuzzleApp;
 /**
  *Orest Ropi IP2, CS3733
- *Credit to George Heineman, as parts of this code design is from his IP2 SlidingApp Code
+ *Credit to George Heineman, as parts of this code design are from his IP2 SlidingApp Code
  */
 public class Main{
 public static void main(String[] args) {
