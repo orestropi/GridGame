@@ -11,15 +11,21 @@ Movements:
 - Move down to divide selected square to the down
 - If any move would result in a non-integer the option to move in that direction will be removed.
 
-Image of the game being played:
+Images of the game being played:
 
-![image](https://user-images.githubusercontent.com/73619173/152722916-225dda3f-d50c-4b4a-b87b-edade53b4bec.png)
+![image](https://user-images.githubusercontent.com/73619173/152740477-d957c06f-725f-46df-b00e-2b50da0899b4.png)
 
-![image](https://user-images.githubusercontent.com/73619173/152725906-61f13981-0d15-4c9a-9221-20572450dee7.png)
+![image](https://user-images.githubusercontent.com/73619173/152740499-12f5ead6-45fe-42c2-879b-8235a3b90abd.png)
 
-![image](https://user-images.githubusercontent.com/73619173/152725971-71402d5f-df7e-493d-b3ef-20c39366692a.png)
+![image](https://user-images.githubusercontent.com/73619173/152740536-be668328-96df-4bb6-9c83-9137cb5ccfb2.png)
+
+![image](https://user-images.githubusercontent.com/73619173/152740571-cfcf525a-fb6a-4a22-8797-d353a27d1443.png)
+
 
 **...**
+
+
+![image](https://user-images.githubusercontent.com/73619173/152740856-eadf56ae-7e9d-4afa-87c6-93a2c8e7ac32.png)
 
 ![image](https://user-images.githubusercontent.com/73619173/152726006-2f5cacb3-3b8c-49aa-b541-fd7bf5c14fa4.png)
 
